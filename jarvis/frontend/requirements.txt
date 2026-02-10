@@ -1,0 +1,4 @@
+# Frontend requirements
+PyQt5>=5.15.0
+websockets>=12.0
+PyAudio>=0.2.14
